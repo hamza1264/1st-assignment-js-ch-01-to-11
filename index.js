@@ -184,7 +184,7 @@
 // // Q=5
 // // a 
 // let a = 5;
-// let b = "5  ";
+// let b = "5";
 // if (a == b){
 //     console.log(a + " == " + b + ": true")
 // }else {
@@ -213,8 +213,6 @@
 // }
 
 // // ch # 6 : .If Statement and Comparison Operators questions complited
-
-
 
 
 
